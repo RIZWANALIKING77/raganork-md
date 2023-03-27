@@ -1,4 +1,4 @@
-/* Copyright (C) 2022 Sourav KL11.
+/* Copyright 𝐑𝐈𝐙𝐖𝐀𝐍 𝐀𝐥𝐢.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Raganork MD - Sourav KL11
@@ -13,7 +13,7 @@ const {
     FancyRandom: FancyRandom,
     getListFromCommand: getListFromCommand,
     skbuffer: skbuffer
-} = require("raganork-bot");
+} = require("𝐑𝐈𝐙𝐖𝐀𝐍 𝐀𝐥𝐢");
 let w = "public" != MODE;
 const readMore = String.fromCharCode(8206).repeat(4001);
 Module({
